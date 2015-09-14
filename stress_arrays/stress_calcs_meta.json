@@ -1,0 +1,6 @@
+{
+    "z_res" : 500,
+    "z_max" : 30000,
+    "b_conv_mode" : "valid",
+    "c_conv_mode" : "same"
+}

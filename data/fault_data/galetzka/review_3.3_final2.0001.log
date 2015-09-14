@@ -1,0 +1,23 @@
+Project: Nepal_Avouac_1s
+Run name: review_3.3_final2
+Run number: 0001
+Velocity model: avouac.mod
+Fault model: nepal_10.fault
+G name: review_3.3_final
+GF list: review.gflist
+Solver: nnls
+lambda_spatial = 0.063095734448019303
+lambda_temporal = 0.015848931924611134
+Beta(degs) = 45
+Mean rupture velocity (km/s) = 3.3
+Number of rupture windows = 20
+L2 = 0.022543333904870917
+VR static(%) = 67.547374666191509
+VR displacement(%) = nan
+VR velocity(%) = 73.535634450362394
+VR tsunami(%) = nan
+VR InSAR LOS(%) = 85.594379504003001
+Lm = 6.4425506579159695
+ABIC = 16671.328599842047
+M0(N-m) = 8.7545957925122867e+20
+Mw = 7.8948240660794591
